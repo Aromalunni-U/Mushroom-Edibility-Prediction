@@ -1,8 +1,6 @@
 import pickle
 import streamlit as st
 import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
 from streamlit_option_menu import option_menu
 import base64
 import second
